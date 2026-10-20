@@ -1,4 +1,5 @@
-# Franck-Condon-Overlap-Factor-Private
+# Franck-Condon-Overlap-Factor
+
 
 `index.html` is a single-page web app for Franck–Condon overlap factors between two harmonic potential energy surfaces
 (ground state g, excited state e). Notation follows J. L. McHale, *Molecular Spectroscopy*, 2nd ed. (CRC Press, 2017).
